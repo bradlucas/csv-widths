@@ -1,5 +1,5 @@
 (defproject com.bradlucas/csv-widths "1.0.0"
-  :description "FIXME: write description"
+  :description "Clojure command line application which returns the widths of csv file columns"
   :url "http://example.com/FIXME"
   :license {:name "MIT"
             :url "http://opensource.org/licenses/MIT"}
