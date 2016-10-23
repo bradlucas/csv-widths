@@ -1,6 +1,6 @@
 # csv-widths
 
-Clojure cmdline application which returns the widths of csv file columns
+Clojure command line application which returns the widths of csv file columns
 
 ## Usage
 
