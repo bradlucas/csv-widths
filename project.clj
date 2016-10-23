@@ -1,4 +1,4 @@
-(defproject csv-widths "1.0.0"
+(defproject com.bradlucas/csv-widths "1.0.0"
   :description "FIXME: write description"
   :url "http://example.com/FIXME"
   :license {:name "MIT"
