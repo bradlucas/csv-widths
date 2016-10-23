@@ -1,6 +1,6 @@
 (defproject com.bradlucas/csv-widths "1.0.0"
   :description "Clojure command line application which returns the widths of csv file columns"
-  :url "http://example.com/FIXME"
+  :url "https://github.com/bradlucas/csv-widths"
   :license {:name "MIT"
             :url "http://opensource.org/licenses/MIT"}
   :dependencies [[org.clojure/clojure "1.8.0"]
